@@ -36,20 +36,4 @@
 # 3. Data Structure and Algorithm Analysis in C (2nd edition)(_optional_)
 ![](https://img1.doubanio.com/view/subject/l/public/s3597187.jpg)
 
-# 4. Algorithm (4th edition)
-![](https://img3.doubanio.com/view/subject/l/public/s4656875.jpg)
-
-- Fundamentals
-- Sorting
-- Searching
-- Graphs
-- Strings
-- Context
-
-## [Algorithms, Part Ⅰ & Ⅱ (June, 2018)](https://www.coursera.org/learn/algorithms-part1)
-# 5. Introduction to Algorithm (3rd edition)(_optional_)
-![](https://img3.doubanio.com/view/subject/l/public/s27275094.jpg)
-
-Additonally, there are 2 online coding website: [Leetcode](https://leetcode.com/) and [牛客网](https://www.nowcoder.com/)！
-
-Visualising data structures and algorithms through animation: [VisuaAlgo](https://visualgo.net/en)
+supported by ![GitPod](https://gitpod.io/)
