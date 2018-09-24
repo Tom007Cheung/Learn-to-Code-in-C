@@ -18,7 +18,7 @@ int main(void)
     int year, month;
     float subtot, total;
 
-    printf(" YEAR       RAINFALL    (inches)\n");
+    printf(" YEAR      RAINFALL    (inches)\n");
     for (year = 0, total = 0; year < YEARS; year++)
     {
         for (month = 0, subtot = 0; month < MONTHS; month++)
