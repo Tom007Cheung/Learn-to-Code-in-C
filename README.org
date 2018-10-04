@@ -1,196 +1,196 @@
 * 1. Getting Ready
 - [X] tl;dr
-** Whence C?
-** Why C?
-** Whither C?
-** What Computers Do
-** High-level Computer Languages and Compilers
-** Language Standards
-** Using C: Seven Steps
-** Programming Mechanics
-** How This Book Is Organized
-** Conventions Used in This Book
+  1. Whence C?
+  2. Why C?
+  3. Whither C?
+  4. What Computers Do
+  5. High-level Computer Languages and Compilers
+  6. Language Standards
+  7. Using C: Seven Steps
+  8. Programming Mechanics
+  9. How This Book Is Organized
+  10. Conventions Used in This Book
 
 * 2. Introducing C
 - [X] tl;dr
-** A Simple Example of C
-** The Example Explained
-** The Structure of a Simple Program
-** Tips on Making Your Programs Readable
-** Taking Another Step in Using C
-** While You’re at It—Multiple Functions
-** Introducing Debugging
-** Keywords and Reserved Identifiers
+  1. A Simple Example of C
+  2. The Example Explained
+  3. The Structure of a Simple Program
+  4. Tips on Making Your Programs Readable
+  5. Taking Another Step in Using C
+  6. While You’re at It—Multiple Functions
+  7. Introducing Debugging
+  8. Keywords and Reserved Identifiers
 
 * 3. Data and C
 - [X] tl;dr
-** A Sample Program
-** Data Variables and Constants
-** Data: Data-Type Keywords
-** Basic C Data Types
-** Using Data Types
-** Arguments and Pitfalls
-** One More Example: Escape Sequences
+  1. A Sample Program
+  2. Data Variables and Constants
+  3. Data: Data-Type Keywords
+  4. Basic C Data Types
+  5. Using Data Types
+  6. Arguments and Pitfalls
+  7. One More Example: Escape Sequences
 
 * 4. Character Strings and Formatted Input/Output
 - [X] tl;dr
-** Introductory Program
-** Character Strings: An Introduction
-** Constants and the C Preprocessor
-** Exploring and Exploiting printf() and scanf()
+  1. Introductory Program
+  2. Character Strings: An Introduction
+  3. Constants and the C Preprocessor
+  4. Exploring and Exploiting printf() and scanf()
 
 * 5. Operators, Expressions, and Statements
 - [X] tl;dr
-** Introducing Loops
-** Fundamental Operators
-** Some Additional Operators
-** Expressions and Statements
-** Type Conversions
-** Function with Arguments
-** A Sample Program
+  1. Introducing Loops
+  2. Fundamental Operators
+  3. Some Additional Operators
+  4. Expressions and Statements
+  5. Type Conversions
+  6. Function with Arguments
+  7. A Sample Program
 
 * 6. C Control Statements: Looping
 - [X] tl;dr
-** Revisiting the while Loop
-** The while Statement
-** Which Is Bigger: Using Relational Operators and Expressions
-** Indefinite Loops and Counting Loops
-** The for Loop
-** More Assignment Operators: +=, -=, *=, /=, %=
-** The Comma Operator
-** An Exit-Condition Loop: do while
-** Which Loop?
-** Nested Loops
-** Introducing Arrays
-** A Loop Example Using a Function Return Value
+  1. Revisiting the while Loop
+  2. The while Statement
+  3. Which Is Bigger: Using Relational Operators and Expressions
+  4. Indefinite Loops and Counting Loops
+  5. The for Loop
+  6. More Assignment Operators: +=, -=, *=, /=, %=
+  7. The Comma Operator
+  8. An Exit-Condition Loop: do while
+  9. Which Loop?
+  10. Nested Loops
+  11. Introducing Arrays
+  12. A Loop Example Using a Function Return Value
 
 * 7. C Control Statements: Branching and Jumps
 - [X] tl;dr
-** The if Statement
-** Adding else to the if Statement
-** Let’s Get Logical
-** A Word-Count Program
-** The Conditional Operator: ?:
-** Loop Aids: continue and break
-** Multiple Choice: switch and break
-** The goto Statement
+  1. The if Statement
+  2. Adding else to the if Statement
+  3. Let’s Get Logical
+  4. A Word-Count Program
+  5. The Conditional Operator: ?:
+  6. Loop Aids: continue and break
+  7. Multiple Choice: switch and break
+  8. The goto Statement
 
 * 8. Character Input/Output and Input Validation
 - [X] tl;dr
-** Single-Character I/O: getchar() and putchar()
-** Buffers
-** Terminating Keyboard Input
-** Redirection and Files
-** Creating a Friendlier User Interface
-** Input Validation
-** Menu Browsing
+  1. Single-Character I/O: getchar() and putchar()
+  2. Buffers
+  3. Terminating Keyboard Input
+  4. Redirection and Files
+  5. Creating a Friendlier User Interface
+  6. Input Validation
+  7. Menu Browsing
 
 * 9. Functions
 - [X] tl;dr
-** Reviewing Functions
-** ANSI C Function Prototyping
-** Recursion
-** Compiling Programs with Two or More Source Code Files
-** Finding Addresses: The & Operator
-** Altering Variables in the Calling Function
-** Pointers: A First Look
+  1. Reviewing Functions
+  2. ANSI C Function Prototyping
+  3. Recursion
+  4. Compiling Programs with Two or More Source Code Files
+  5. Finding Addresses: The & Operator
+  6. Altering Variables in the Calling Function
+  7. Pointers: A First Look
 
 * 10. Arrays and Pointers
 - [X] tl;dr
-** Arrays
-** Multidimensional Arrays
-** Pointers and Arrays
-** Functions, Arrays, and Pointers
-** Pointer Operations
-** Protecting Array Contents
+  1. Arrays
+  2. Multidimensional Arrays
+  3. Pointers and Arrays
+  4. Functions, Arrays, and Pointers
+  5. Pointer Operations
+  6. Protecting Array Contents
    **---vhaven't readv---**
-** Pointers and Multidimensional Arrays 
-   **---^haven't read^---** 
-** Variable-Length Arrays (VLAs)
-** Compound Literals
+  7. Pointers and Multidimensional Arrays 
+   **---^haven't read^---**
+  8. Variable-Length Arrays (VLAs)
+  9. Compound Literals
 
 * 11. Character Strings and String Functions
-- [ ] tl;dr
-** Representing Strings and String I/O
-** String Input
-** String Output
-** The Do-It-Yourself Option
-** String Functions
-** A String Example: Sorting Strings
-** The ctype.h Character Functions and Strings
-** Command-Line Arguments
-** String-to-Number Conversions
+- [X] tl;dr
+  1. Representing Strings and String I/O
+  2. String Input
+  3. String Output
+  4. The Do-It-Yourself Option
+  5. String Functions
+  6. A String Example: Sorting Strings
+  7. The ctype.h Character Functions and Strings
+  8. Command-Line Arguments
+  9. String-to-Number Conversions
 
 * 12. Storage Classes, Linkage, and Memory Management
 - [ ] tl;dr
-** Storage Classes
-** A Random-Number Function and a Static Variable
-** Roll ’Em
-** Allocated Memory: malloc() and free()
-** ANSI C Type Qualifiers
+  1. Storage Classes
+  2. A Random-Number Function and a Static Variable
+  3. Roll ’Em
+  4. Allocated Memory: malloc() and free()
+  5. ANSI C Type Qualifiers
 
 * 13. File Input/Output
 - [ ] tl;dr
-** Communicating with Files
-** Standard I/O
-** A Simple-Minded File-Condensing Program
-** File I/O: fprintf(), fscanf(), fgets(), and fputs()
-** Adventures in Random Access: fseek() and ftell()
-** Behind the Scenes with Standard I/O
-** Other Standard I/O Functions
+  1. Communicating with Files
+  2. Standard I/O
+  3. A Simple-Minded File-Condensing Program
+  4. File I/O: fprintf(), fscanf(), fgets(), and fputs()
+  5. Adventures in Random Access: fseek() and ftell()
+  6. Behind the Scenes with Standard I/O
+  7. Other Standard I/O Functions
 
 * 14. Structures and Other Data Forms
 - [ ] tl;dr
-** Sample Problem: Creating an Inventory of Books
-** Setting Up the Structure Declaration
-** Defining a Structure Variable
-** Arrays of Structures
-** Nested Structures
-** Pointers to Structures
-** Telling Functions About Structures
-** Saving the Structure Contents in a File
-** Structures: What Next?
-** Unions: A Quick Look
-** Enumerated Types
-** typedef: A Quick Look
-** Fancy Declarations
-** Functions and Pointers
+  1. Sample Problem: Creating an Inventory of Books
+  2. Setting Up the Structure Declaration
+  3. Defining a Structure Variable
+  4. Arrays of Structures
+  5. Nested Structures
+  6. Pointers to Structures
+  7. Telling Functions About Structures
+  8. Saving the Structure Contents in a File
+  9. Structures: What Next?
+  10. Unions: A Quick Look
+  11. Enumerated Types
+  12. typedef: A Quick Look
+  13. Fancy Declarations
+  14. Functions and Pointers
 
 * 15. Bit Fiddling
 - [ ] tl;dr
-** Binary Numbers, Bits, and Bytes
-** Other Number Bases
-** C’s Bitwise Operators
-** Bit Fields
-** Alignment Features (C11)
+  1. Binary Numbers, Bits, and Bytes
+  2. Other Number Bases
+  3. C’s Bitwise Operators
+  4. Bit Fields
+  5. Alignment Features (C11)
 
 * 16. The C Preprocessor and the C Library
 - [ ] tl;dr
-** First Steps in Translating a Program
-** Manifest Constants: #define
-** Using Arguments with #define
-** Macro or Function?
-** File Inclusion: #include
-** Other Directives
-** Inline Functions (C99)
-** _Noreturn Functions (C11)
-** The C Library
-** The Math Library
-** The General Utilities Library
-** The Assert Library
-** memcpy() and memmove() from the string.h Library
-** Variable Arguments: stdarg.h
+  1. First Steps in Translating a Program
+  2. Manifest Constants: #define
+  3. Using Arguments with #define
+  4. Macro or Function?
+  5. File Inclusion: #include
+  6. Other Directives
+  7. Inline Functions (C99)
+  8. _Noreturn Functions (C11)
+  9. The C Library
+  10. The Math Library
+  11. The General Utilities Library
+  12. The Assert Library
+  13. memcpy() and memmove() from the string.h Library
+  14. Variable Arguments: stdarg.h
 
 * 17. Advanced Data Representation
 - [ ] tl;dr
-** Exploring Data Representation
-** Beyond the Array to the Linked List
-** Abstract Data Types (ADTs)
-** Getting Queued with an ADT
-** Simulating with a Queue
-** The Linked List Versus the Array
-** Binary Search Trees
-** Other Directions
+  1. Exploring Data Representation
+  2. Beyond the Array to the Linked List
+  3. Abstract Data Types (ADTs)
+  4. Getting Queued with an ADT
+  5. Simulating with a Queue
+  6. The Linked List Versus the Array
+  7. Binary Search Trees
+  8. Other Directions
  
 * Appendixes
   **tl;not want to read**
