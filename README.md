@@ -36,4 +36,4 @@
 # 3. Data Structure and Algorithm Analysis in C (2nd edition)(_optional_)
 ![](https://img1.doubanio.com/view/subject/l/public/s3597187.jpg)
 
-supported by ![GitPod](https://gitpod.io/)
+supported by **VS code**, iMac_7 on ECNU Library.
