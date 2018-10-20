@@ -1,4 +1,4 @@
-/* book.c -- one-book inventory */
+/* book.c -- one-book inventory，compile with s_gets.c */
 #include <stdio.h>
 #include <string.h>
 char * s_gets(char * st, int n);
@@ -28,23 +28,4 @@ int main(void)
     printf("Done.\n");
 
     return 0;
-}
-
-char * s_gets(char * st, int n)
-{
-    char * ret_val;
-    char * find;
-
-    ret_val = fgets(st, n, stdin);
-    if (ret_val)
-    {
-        find = strchr(st, '\n');    // look for newline
-        if (find)                   // if the address is not NULL,
-            *find = '\0';           // place a null character there
-        else
-            while (getchar() != '\n')
-                continue;           // dispose of rest of line
-    }
-
-    return ret_val;
 }
