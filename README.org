@@ -122,12 +122,12 @@
   9. String-to-Number Conversions
 
 * 12. Storage Classes, Linkage, and Memory Management
-- [ ] tl;dr
-  1. Storage Classes
+- [X] tl;dr
+  1. Storage Classes **undo**
   2. A Random-Number Function and a Static Variable
   3. Roll ’Em
   4. Allocated Memory: malloc() and free()
-  5. ANSI C Type Qualifiers
+  5. ANSI C Type Qualifiers **undo**
 
 * 13. File Input/Output
 - [ ] tl;dr
