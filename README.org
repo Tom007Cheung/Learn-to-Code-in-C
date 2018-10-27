@@ -140,7 +140,7 @@
   7. Other Standard I/O Functions
 
 * 14. Structures and Other Data Forms
-- [ ] tl;dr
+- [X] tl;dr
   1. Sample Problem: Creating an Inventory of Books
   2. Setting Up the Structure Declaration
   3. Defining a Structure Variable
